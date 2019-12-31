@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128mm"
+   height="36mm"
+   viewBox="0 0 128 36"
+   version="1.1"
+   id="svg935"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="tecta_narrow.svg">
+  <defs
+     id="defs929" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="235.38463"
+     inkscape:cy="68.336391"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata932">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-261)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.05178833px;line-height:12;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3c3c76;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="43.662159"
+       y="286.31964"
+       id="text1378"
+       transform="scale(0.96602219,1.0351729)"><tspan
+         sodipodi:role="line"
+         id="tspan1376"
+         x="43.662159"
+         y="286.31964"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Swis721 Ex BT';-inkscape-font-specification:'Swis721 Ex BT';fill:#3c3c76;fill-opacity:1;stroke-width:0.26458332">IMMOBILIEN GMBH</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path846"
+       d="m 8.8232659,286.86783 v -1.85208 H 8.2747042 c -6.798605,0 -7.95172874,-0.0268 -7.86775874,-0.46302 0.0833,-0.4328 1.10860294,-0.53432 7.95689874,-0.53155 13.5555468,0.005 0.4594217,-0.0634 0.4594217,0.46302 0,0.51897 0.1659197,0.53155 7.0114601,0.53155 h 7.011461 v 1.85208 1.85209 H 15.834726 8.8232659 Z"
+       style="fill:#f6c956;stroke-width:1"
+       sodipodi:nodetypes="ccscssscccccc"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path844"
+       d="m 23.904518,277.872 c 0,-3.34698 0.0923,-6.08542 0.20506,-6.08542 0.112789,0 1.065289,0.86601 2.116669,1.92445 l 1.911609,1.92445 v 4.16097 4.16097 h -2.116669 -2.116669 z"
+       style="fill:#49b7e8;stroke-width:1"
+       sodipodi:nodetypes="ssccccccs"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path842"
+       d="m 22.846187,290.96887 c 0,-2.07256 0.0415,-2.24895 0.529169,-2.24895 0.487659,0 0.529162,0.17639 0.529162,2.24895 0,2.07257 -0.0415,2.24896 -0.529162,2.24896 -0.487669,0 -0.529169,-0.17639 -0.529169,-2.24896 z m 1.322919,-4.10104 v -1.85208 h 1.98437 1.98438 v 1.85208 1.85209 h -1.98438 -1.98437 z M 8.8232659,279.93686 v -4.02056 l 4.8982201,-4.90913 4.89821,-4.90913 2.01358,2.05052 c 1.107461,1.12779 2.058421,2.05052 2.11324,2.05052 0.0548,0 0.0997,-1.19062 0.0997,-2.64583 0,-2.46945 0.0353,-2.64583 0.529169,-2.64583 0.500142,0 0.529162,0.17638 0.529162,3.216 0,3.19925 -0.003,3.21351 -0.529162,2.73712 -0.527859,-0.47771 -0.529169,-0.46213 -0.529169,6.30899 v 6.78789 H 15.834755 8.8232979 Z"
+       style="fill:#3c3c76;fill-opacity:1;stroke-width:1"
+       sodipodi:nodetypes="sssssccccccccccccccsssscscccc"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path846-3"
+       d="m 28.717386,284.55261 c 0.02323,-0.44035 2.438362,-0.46627 49.33081,-0.52936 49.269894,-0.0663 49.306224,-0.066 49.306224,0.46302 0,0.52891 -0.0423,0.52936 -49.330701,0.52936 -46.942648,0 -49.32962,-0.0224 -49.306333,-0.46302 z"
+       style="fill:#f6c956;stroke-width:1"
+       sodipodi:nodetypes="zsssz"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.04692507px;line-height:12;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3c3c76;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       x="39.293407"
+       y="283.21909"
+       id="text1374"
+       transform="scale(1.0173615,0.98293477)"><tspan
+         sodipodi:role="line"
+         id="tspan1372"
+         x="39.293407"
+         y="283.21909"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:23.55231476px;font-family:'Swis721 Ex BT';-inkscape-font-specification:'Swis721 Ex BT Expanded';fill:#3c3c76;fill-opacity:1;stroke-width:0.26458329">TECTA</tspan></text>
+  </g>
+</svg>
